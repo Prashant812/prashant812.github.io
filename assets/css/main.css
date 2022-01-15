@@ -423,7 +423,7 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
-		body:before {
+		/* body:before {
 			-moz-animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-hide 0.25s ease-in-out forwards !important;
 			-webkit-animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-hide 0.25s ease-in-out forwards !important;
 			-ms-animation: spinner-show 1.5s 1 0.25s ease forwards, spinner-hide 0.25s ease-in-out forwards !important;
@@ -453,7 +453,7 @@ input, select, textarea {
 			top: 50%;
 			width: 2em;
 			z-index: -1;
-		}
+		} */
 
 		body:after {
 			-moz-animation: overlay-hide 1.5s ease-in forwards !important;
